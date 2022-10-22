@@ -23,6 +23,9 @@ You have 4 attempts remaining to guess the number.
 # If the answer is correct then the below message should be printed.
 You got it! The answer was 29.
 
-# ##########################################################33
-# ##########################################################33
-# ##########################################################33
+# If the answer is not correct then the below message should be printed.
+You've run out of guesses, you lose.
+
+# ##########################################################
+# ##########################################################
+# ##########################################################
